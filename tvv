@@ -1,0 +1,15 @@
+[
+    [
+        {
+            "file": "https://domain.com/file1.vtt",
+            "label": "English",
+            "kind": "captions"
+        },
+        {
+            "file": "https://domain.com/file2.vtt",
+            "label": "Japanese",
+            "kind": "captions"
+        }
+    ]
+    
+]
